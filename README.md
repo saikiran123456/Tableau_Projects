@@ -16,3 +16,6 @@ https://public.tableau.com/app/profile/saikiran2351/viz/PROJECT--Tracking_Consum
 https://public.tableau.com/app/profile/saikiran2351/viz/DiscountMartSalesAnalytics_16785144362070/SalesAnalyticsDashboard
 
 ![image](https://user-images.githubusercontent.com/37768258/224552539-2c66c055-acc8-4ffe-93e6-9630ec684a88.png)
+
+![SalesAnalyticsDashboard](https://user-images.githubusercontent.com/37768258/224552767-6820ef64-4a6b-452e-b394-6086e9c93132.png)
+

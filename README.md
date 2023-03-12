@@ -11,7 +11,7 @@ https://public.tableau.com/app/profile/saikiran2351/viz/PROJECT--Tracking_Consum
 ## ----------------------------------------------------------------------------------
 
 
-## Discount Mark Sales Analytics Project UDEMY Bootcamp
+## Discount Mart Sales Analytics Project TechTip24 Bootcamp
 
 https://public.tableau.com/app/profile/saikiran2351/viz/DiscountMartSalesAnalytics_16785144362070/SalesAnalyticsDashboard
 
